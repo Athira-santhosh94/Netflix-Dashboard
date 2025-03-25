@@ -12,3 +12,6 @@ The Netflix Dashboard is an interactive Power BI report designed to analyze and 
 
 * Country-wise Distribution: Shows content availability per country.
 
+## Screenshot
+![Alt text](https://github.com/Athira-santhosh94/Netflix-Dashboard/blob/main/Dashboard%20screenshot.png)
+
